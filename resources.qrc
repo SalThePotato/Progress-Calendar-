@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Cell.qml</file>
+        <file>Taskbar.qml</file>
+        <file>Calender.qml</file>
+    </qresource>
+    <qresource prefix="/windows">
+        <file>main.qml</file>
+        <file>AddAchievementType.qml</file>
+        <file>ViewAllAchievementTypes.qml</file>
+        <file>AddAchievement.qml</file>
+    </qresource>
+    <qresource prefix="/Images">
+        <file>icon.png</file>
+        <file>X_Icon.png</file>
+        <file>Square_Icon.png</file>
+        <file>Minimize_Icon.png</file>
+        <file>icon.ico</file>
+    </qresource>
+</RCC>
